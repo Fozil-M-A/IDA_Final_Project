@@ -1,0 +1,9 @@
+name: ida-final
+dependencies:
+  - python>=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - openpyxl
+  - jupyterlab
+  - ipykernel
