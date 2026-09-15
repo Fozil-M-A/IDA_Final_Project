@@ -1,9 +1,13 @@
 name: ida-final
 dependencies:
   - python>=3.12
-  - pandas
+  - pandas>=2.0.0
   - numpy
   - matplotlib
   - openpyxl
   - jupyterlab
   - ipykernel
+  - pip
+  - pip:
+    - streamlit>=1.28.0
+    - plotly>=5.14.0
